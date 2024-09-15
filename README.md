@@ -25,4 +25,4 @@ HTML-тегов. Его идея не в том, чтобы создать си�
 
 Вот [эта ссылка на файл help.md](HELP.md)
 
-![LOGO](https://ru.wikipedia.org/wiki/Markdown#/media/Файл:Markdown-mark.svg)
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
